@@ -1,0 +1,42 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20240415",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/15/une-no-preve-afectaciones-durante-el-pico-nocturno-de-este-lunes/", 
+    "prediction": {
+        "availability": 2664,  
+        "demand_max": 2600,
+        "impact": null,
+        "deficit": 0,
+        "backup": 64
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2480, 
+        "demand": 1880, 
+        "deficit": null 
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "DO": ["6"],
+                "MG": ["6", "8"]
+            },
+            "limitation": 497
+    } 
+],
+    "distributed": {
+        "motors_with_problems": 37,
+        "total_impact": 188,
+        "combustible_problem": true,
+        "ships_with_problems": 1,
+        "motors_impact": 54
+    },
+    "impact": {
+        "total_hours": 0,
+        "max": null,
+        "max_hour": null
+    }
+}

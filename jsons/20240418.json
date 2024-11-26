@@ -1,0 +1,45 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20240418",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/18/la-union-electrica-pronostica-una-afectacion-de-282-mw-en-el-horario-pico/", 
+    "prediction": {
+        "availability": 2438,  
+        "demand_max": 2650,
+        "impact": 282,
+        "deficit": 212,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2168, 
+        "demand": 1950, 
+        "deficit": null
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "LR": ["2"],
+                "EG": ["3"]
+            },
+            "maintenance": {
+                "EG": ["1"],
+                "DO": ["6"],
+                "MG": ["6", "8"],
+                "AM": ["5"]
+            },
+            "limitation": 439
+    } 
+],
+    "distributed": {
+        "motors_with_problems": 27,
+        "total_impact": null,
+        "combustible_problem": true,
+        "snips_with_problems": 1,
+        "motors_impact": 238
+    },
+    "impact": {
+        "total_hours": 4,
+        "max": 193,
+        "max_hour": "2107"
+    }
+}

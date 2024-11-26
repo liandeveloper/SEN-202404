@@ -1,0 +1,46 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20240420",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/20/union-electrica-estima-una-afectacion-de-360-mw-en-horario-pico-de-este-sabado/", 
+    "prediction": {
+        "availability": 2460,  
+        "demand_max": 2750,
+        "impact": 360,
+        "deficit": 290,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2130, 
+        "demand": 2000, 
+        "deficit": null 
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "EG": ["3"],
+                "DO": ["5"],
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "EG": ["1"],
+                "DO": ["6"],
+                "AM": ["5"],
+                "MG": ["8"]
+            },
+            "limitation": 356
+    } 
+],
+    "distributed": {
+        "motors_with_problems": 38,
+        "total_impact": 328,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 13,
+        "max": 621,
+        "max_hour": "0244"
+    }
+}

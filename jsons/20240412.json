@@ -1,0 +1,44 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20240412",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/12/une-preve-afectaciones-por-deficit-de-generacion-durante-horario-diurno-y-en-pico-nocturno-este-viernes/", 
+    "prediction": {
+        "availability": 2495,  
+        "demand_max": 2900,
+        "impact": 475,
+        "deficit": 405,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2045, 
+        "demand": 2330, 
+        "deficit": null 
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "DO": ["5"],
+                "AG": ["1"],
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "DO": ["6"],
+                "MG": ["6", "8"]
+            },
+            "limitation": 384
+    } 
+],
+    "distributed": {
+        "motors_with_problems": 63,
+        "total_impact": 468,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": "24",
+        "max": 816,
+        "max_hour": "0614"
+    }
+}

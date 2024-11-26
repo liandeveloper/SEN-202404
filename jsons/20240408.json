@@ -1,0 +1,42 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20240408",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/08/union-electrica-informa-afectacion-de-250-mw-para-el-horario-pico-nocturno/", 
+    "prediction": {
+        "availability": 2470,  
+        "demand_max": 2650,
+        "impact": 250,
+        "deficit": 180,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2460, 
+        "demand": 1880, 
+        "deficit": 0
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "MG": ["8"],
+                "DO": ["6"]
+            },
+            "limitation": 551
+    } 
+],
+    "distributed": {
+        "motors_with_problems": 35,
+        "total_impact": 138,
+        "combustible_problem": true,
+        "ships_with_problems": 1,
+        "motors_impact": 60
+    },
+    "impact": {
+        "total_hours": 0,
+        "max": null,
+        "max_hour": null
+    }
+}

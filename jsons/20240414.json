@@ -1,0 +1,42 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20240414",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/14/une-no-pronostica-afectaciones-por-deficit-de-generacion-este-domingo/", 
+    "prediction": {
+        "availability": 2685,  
+        "demand_max": 2550,
+        "impact": 0,
+        "deficit": null,
+        "backup": 135
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2500, 
+        "demand": 1850, 
+        "deficit": null
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "LR": ["6"],
+                "MG": ["6", "8"]
+            },
+            "limitation": 502
+    } 
+],
+    "distributed": {
+        "motors_with_problems": 38,
+        "total_impact": 172,
+        "combustible_problem": true,
+        "ships_with_problems": 1,
+        "motors_impact": 65
+    },
+    "impact": {
+        "total_hours": 0,
+        "max": null,
+        "max_hour": null
+    }
+}

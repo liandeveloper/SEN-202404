@@ -1,0 +1,45 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20240421",
+    "url": "", 
+    "prediction": {
+        "availability": 2340,  
+        "demand_max": 2650,
+        "impact": 380,
+        "deficit": 310,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2050, 
+        "demand": 1980, 
+        "deficit": null 
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "LR": ["2"],
+                "EG": ["3"],
+                "DO": ["5"]
+            },
+            "maintenance": {
+                "EG": ["1"],
+                "DO": ["6"],
+                "MG": ["8"]
+            },
+            "limitation": 384
+    } 
+],
+    "distributed": {
+        "motors_with_problems": 34,
+        "total_impact": 250,
+        "combustible_problem":true,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 14,
+        "max": 232,
+        "max_hour": "0218"
+    }
+}

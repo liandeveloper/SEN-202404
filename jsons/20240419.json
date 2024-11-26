@@ -1,0 +1,46 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20240419",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/19/une-se-pronostica-una-afectacion-de-355-mw-durante-horario-pico-nocturno-de-este-viernes/", 
+    "prediction": {
+        "availability": 2315,  
+        "demand_max": 2600,
+        "impact": 355,
+        "deficit": 284,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2080, 
+        "demand": 2000, 
+        "deficit": null 
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "EG": ["3"],
+                "DO": ["5"],
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "EG": ["1"],
+                "DO": ["6"],
+                "MG": ["6", "8"],
+                "AM": ["5"]
+            },
+            "limitation": 345
+    } 
+],
+    "distributed": {
+        "motors_with_problems": 32,
+        "total_impact": 205,
+        "combustible_problem": true,
+        "snips_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 6,
+        "max": 197,
+        "max_hour": "0029"
+    }
+}

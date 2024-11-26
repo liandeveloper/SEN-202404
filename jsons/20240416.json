@@ -1,0 +1,43 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20240416",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/16/union-electrica-no-preve-afectaciones-durante-el-pico-nocturno-de-este-martes/", 
+    "prediction": {
+        "availability": 2661,  
+        "demand_max": 2600,
+        "impact": 0,
+        "deficit": 0,
+        "backup": 61
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2478, 
+        "demand": 1900, 
+        "deficit": null 
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "EG": ["1"],
+                "MG": ["6", "8"],
+                "DO": ["6"]
+            },
+            "limitation": 454
+    } 
+],
+    "distributed": {
+        "motors_with_problems": 30,
+        "total_impact": 109,
+        "combustible_problem": true,
+        "snips_with_problems": 1,
+        "motors_impact": 30
+    },
+    "impact": {
+        "total_hours": 0,
+        "max": null,
+        "max_hour": null
+    }
+}

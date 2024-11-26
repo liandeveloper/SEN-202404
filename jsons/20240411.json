@@ -1,0 +1,45 @@
+{
+    "zones_with_problems": [null],
+    "date": "20240411",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/11/une-se-pronostica-una-afectacion-de-535-mw-en-el-horario-pico/", 
+    "prediction": {
+        "availability": 2315,  
+        "demand_max": 2780,
+        "impact": 535,
+        "deficit": 465,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2115, 
+        "demand": 2160, 
+        "deficit": true 
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "DO": ["5"],
+                "AG": ["1"],
+                "AM": ["6"],
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "DO": ["6"],
+                "MG": ["6", "8"]
+            },
+            "limitation": 367
+    } 
+],
+    "distributed": {
+        "motors_with_problems": 55,
+        "total_impact": 397,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 11.5,
+        "max": 600,
+        "max_hour": "0328"
+    }
+}

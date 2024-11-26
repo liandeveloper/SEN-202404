@@ -1,0 +1,12 @@
+Título: Situación del SEN para el 21 de abril de 2024
+URL: https://t.me/EmpresaElectricaDeLaHabana/23014
+
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 10:22 horas de la mañana hasta las 12:25 horas de la tarde (140 MW) y desde las 15:23 horas de la tarde hasta las 02:18 horas de la madrugada de hoy.
+La máxima afectación en el dia fue en el horario pico con   232 MW a las 20:10 horas, coincidente con la hora pico.
+La disponibilidad del SEN a las 07:00 horas es de 2050 MW y la demanda 1980 MW. Se estima una afectación de 300 MW en el horario de la media.
+Se encuentran en avería la unidad 2 de la CTE Lidio Ramón Pérez (Felton), la unidad 3 de la CTE Ernesto Guevara  (Santa Cruz), la unidad 5 de la CTE 10 de Octubre (Nuevitas) y la unidad 3 de la CTE Antonio Maceo (Rente). Se encuentra en mantenimiento la unidad 1 de la CTE Santa Cruz, la unidad 6 de la CTE Nuevitas y la unidad 8 de la CTE Mariel.       
+Las limitaciones en la generación térmica son de 384 MW. 
+Se encuentran fuera de servicio por combustible 34 centrales de generación distribuida, con 250 MW afectado por este concepto. 
+Para el pico se estima la entrada de motores de la Generación Distribuida que están en espera de mantenimiento y se autoriza su uso con 130 MW. La entrada de motores en Generación Distribuida que se encuentran fuera por combustible con 100 MW. La entrada de Energás Jaruco 3 con 30 MW. El completamiento de Energás Jaruco 6 con 30 MW. 
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2340 MW y una demanda máxima de 2650 MW, para un déficit de 310 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 380 MW en este horario.
+UNE-MINEM

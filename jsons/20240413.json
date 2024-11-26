@@ -1,0 +1,43 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20240413",
+    "url": "http://www.cubadebate.cu/noticias/2024/04/13/une-no-preve-afectaciones-por-deficit-de-generacion-electrica-en-horario-pico/", 
+    "prediction": {
+        "availability": 2923,  
+        "demand_max": 2800,
+        "impact": 0,
+        "deficit": null,
+        "backup": 123
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2365, 
+        "demand": 2050, 
+        "deficit": null 
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "DO": ["5"],
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "MG": ["6", "8"],
+                "DO": ["6"]
+            },
+            "limitation": 546
+    } 
+],
+    "distributed": {
+        "motors_with_problems": 45,
+        "total_impact": 460,
+        "combustible_problem": true,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 22.50,
+        "max": 705,
+        "max_hour": "2230"
+    }
+}
